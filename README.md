@@ -1,1 +1,1 @@
-# CertificatesVerification
+# How are certificates verified?
